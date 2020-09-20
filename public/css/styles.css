@@ -1,0 +1,28 @@
+
+body{
+
+  background-image: url("bg.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.container{
+
+  margin: 100px 500px 0 500px ;
+  padding: 20px 20px 20px 20px;
+  font-family: 'Merriweather', serif;
+  background-image: url("bg-box.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+
+.container-ele{
+  margin: 30px 50px 30px 50px;
+    padding: 10px 10px 10px 10px;
+
+
+}
+
+p{
+   font-size:110%;
+}
